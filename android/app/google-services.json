@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146947772698",
+    "project_id": "manchasapp",
+    "storage_bucket": "manchasapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146947772698:android:28e087dce27ea6e06c1ca3",
+        "android_client_info": {
+          "package_name": "com.example.manchas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146947772698-89fgh7pvj2t18e8c22ia6rmhl7e814gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manchas_app",
+            "certificate_hash": "0e8ac2d28c6a9eeae9a53cee427db1830cc430b1"
+          }
+        },
+        {
+          "client_id": "146947772698-damf82fgjmripkr1du7p1dqnqfkiqfrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihYGEskfnLMDaeGjbEwOJ7HwfTsL4jP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146947772698-damf82fgjmripkr1du7p1dqnqfkiqfrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
